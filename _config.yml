@@ -2,9 +2,7 @@
 title: Daun-up #Your awesome title
 email: awhekdns@kookmin.ac.kr #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  안녕하세요 조다운의 블로그입니다 ^ㅇ^
 
 baseurl: # the subpath of the site
 url: https://github.com/daun-up/daun-up.github.io.git # the base hostname & protocol for your site
@@ -21,7 +19,7 @@ cusdis:
 
 user:
   name: Jodaun
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/profile.jpg
   picAlt: "catbook"
   job: 국민대학교 20223139
   aboutme: true # comment this out if you don't need the 'about' page.
