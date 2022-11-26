@@ -23,7 +23,11 @@ $ git clone <repo_name><path>
 
 ## blog_three
 - jekyll 을 설치 하고 jekyll serve 를 실행한 후 localhost:4000 를 접속하면 내 웹페이지의 현황을 볼 수 있다.
-- 
+- git blog 테마를 git hub 에서 fork 해와서 내 로컬 저장소로 git clone 하여 테마를 적용하는 방법을 선택했다.
+
+## 문제 해결 
+- git clone 하는 과정에서 여러 가지를 시도하던 중 blog 가 여러 개 만들어져 저장 경로가 이상하게 설정되었다. 이미 폴더가 존재한다는 메세지가 떠서 모두 찾아내 하나하나 삭제하고 다시 repo 를 만들어서 다른 이름으로 git clone 하였다.
+- vs code 에서 post 를 업로드하고 저장하지 않아 git blog 에 반영되지 않았다. 터무니 없는 실수였다
 
 ## License
 
