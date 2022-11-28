@@ -34,6 +34,8 @@ $ git clone <repo_name><path>
 - 특강에 다루어졌던 내용 중 Markdown 을 선택하여 그 정의와 문법에 대한 post 를 작성했다.
 - 기본 테마 이외의 'catbook' 테마를 적용했다.
 - Google Analytics 을 추가했다. 
+![image](https://user-images.githubusercontent.com/105338882/204217151-34067ff6-3566-4d22-8673-5a042cf28a07.png)
+
 
 - favicon 추가
 
