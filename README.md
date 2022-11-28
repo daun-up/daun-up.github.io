@@ -34,10 +34,11 @@ $ git clone <repo_name><path>
 - 특강에 다루어졌던 내용 중 Markdown 을 선택하여 그 정의와 문법에 대한 post 를 작성했다.
 - 기본 테마 이외의 'catbook' 테마를 적용했다.
 - Google Analytics 을 추가했다. 
-![image](https://user-images.githubusercontent.com/105338882/204217151-34067ff6-3566-4d22-8673-5a042cf28a07.png)
+ <img src="https://user-images.githubusercontent.com/105338882/204217151-34067ff6-3566-4d22-8673-5a042cf28a07.png" width="800" height="500"/>
 
 
 - favicon 추가
+
 
 ## 문제 해결 
 - git clone 하는 과정에서 여러 가지를 시도하던 중 blog 가 여러 개 만들어져 저장 경로가 이상하게 설정되었다. 현재 내가 있는 디렉터리도 헷갈리게 되어서 git blog 설정이 엉키는 상황이 발생하였다. 이미 폴더가 존재한다는 메세지가 떠서 모두 찾아내 하나하나 삭제하고 다시 repo 를 만들어서 다른 이름으로 git clone 하였다.
