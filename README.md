@@ -28,11 +28,15 @@ $ git clone <repo_name><path>
 - git blog 테마를 git hub 에서 fork 해와서 내 로컬 저장소로 git clone 하여 테마를 적용하는 방법을 선택했다.
 
 ## blog_four < Customize my blog >
+- disqus 를 이용하여 댓글 기능을 구현했다. 
   
+## assignment
+- 특강에 다루어졌던 내용 중 Markdown 을 선택하여 그 정의와 문법에 대한 post 를 작성했다.
+- 기본 테마 이외의 'catbook' 테마를 적용했다.
+- Google Analytics 을 추가했다. 
 
 ## 문제 해결 
-- git clone 하는 과정에서 여러 가지를 시도하던 중 blog 가 여러 개 만들어져 저장 경로가 이상하게 설정되었다. 
-이미 폴더가 존재한다는 메세지가 떠서 모두 찾아내 하나하나 삭제하고 다시 repo 를 만들어서 다른 이름으로 git clone 하였다.
+- git clone 하는 과정에서 여러 가지를 시도하던 중 blog 가 여러 개 만들어져 저장 경로가 이상하게 설정되었다. 현재 내가 있는 디렉터리도 헷갈리게 되어서 git blog 설정이 엉키는 상황이 발생하였다. 이미 폴더가 존재한다는 메세지가 떠서 모두 찾아내 하나하나 삭제하고 다시 repo 를 만들어서 다른 이름으로 git clone 하였다.
 - vs code 에서 post 를 업로드하고 저장하지 않아 git blog 에 반영되지 않았다. 로컬 저장소의 내용은 변경했는데 웹페이지에 반영이 되지 않아 push 과정을 계속해서 시도했으나 이미 모두 push 되었다는 메세지만 떠서 당황했다. vscode 에서 저장하지 않았다는 표시를 발견하고 clrl+s 하자 모두 반영되었다.
 
 - jekyll serve 했을 때 웹 페이지가 정상적으로 반영되었고 commit도 되었어도 https://daun-up.github.io/ 에서는 웹 페이지를 build 하는 데에 시간이 걸린다. 
