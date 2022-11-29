@@ -2,7 +2,7 @@
 title: Daun-up #Your awesome title
 email: awhekdns@kookmin.ac.kr #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
-  안녕하세요 조다운의 블로그입니다 ^ㅇ^
+  
 
 baseurl: # the subpath of the site
 url: https://github.com/daun-up/daun-up.github.io.git # the base hostname & protocol for your site
