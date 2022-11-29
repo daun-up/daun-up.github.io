@@ -50,6 +50,7 @@ $ git clone <repo_name><path>
 - vs code 에서 post 를 업로드하고 저장하지 않아 git blog 에 반영되지 않았다. 로컬 저장소의 내용은 변경했는데 웹페이지에 반영이 되지 않아 push 과정을 계속해서 시도했으나 이미 모두 push 되었다는 메세지만 떠서 당황했다. vscode 에서 저장하지 않았다는 표시를 발견하고 clrl+s 하자 모두 반영되었다.
 
 - jekyll serve 했을 때 웹 페이지가 정상적으로 반영되었고 commit도 되었어도 https://daun-up.github.io/ 에서는 웹 페이지를 build 하는 데에 시간이 걸린다. 
+- 2022-11-30 새벽 2 시에 post 를 업로드 했는데 commit,push 모두 했고 마크다운 양식도 지켰는데도 git blog 에 반영되지 않았다. jekyll serve 했을 때는 반영이 되고 git hub 에는 정상적으로 push 된 것을 확인하고 _config.yml 파일에 future:true 를 추가해줬더니 바로 반영되었다.
 
 ## License
 
